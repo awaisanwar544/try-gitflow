@@ -1,1 +1,4 @@
+<<<<<<< HEAD
+=======
 "Simplicity is the soul of efficiency." - Austin Freeman
+>>>>>>> dev
